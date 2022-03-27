@@ -1,0 +1,5 @@
+Bought potion(-1G)
+Money: 9G
+Sold potion(+2G)
+Money: 11G
+you won! ^_^ 
